@@ -1,4 +1,4 @@
-package com.thang.demo.controller.clinet.rest;
+package com.vinh.demo.controller.clinet.rest;
 
 import com.thang.demo.controller.base.BaseController;
 import com.thang.demo.entity.Bill;

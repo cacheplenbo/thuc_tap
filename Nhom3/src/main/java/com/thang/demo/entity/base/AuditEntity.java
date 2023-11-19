@@ -1,4 +1,4 @@
-package com.thang.demo.entity.base;
+package com.vinh.demo.entity.base;
 
 import com.thang.demo.infrastructure.listener.AuditEntityListener;
 import jakarta.persistence.Column;

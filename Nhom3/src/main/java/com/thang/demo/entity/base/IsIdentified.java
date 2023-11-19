@@ -1,4 +1,4 @@
-package com.thang.demo.entity.base;
+package com.vinh.demo.entity.base;
 
 
 public interface IsIdentified {
